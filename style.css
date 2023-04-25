@@ -12,11 +12,11 @@
   text-align: right;
 }
 
-.about .about-img {
+.about > .about-img {
   width: 100%;
 }
 
-.about .more_inf {
+.about > .more-info {
   font-family: fantasy, cursive;
 }
 
@@ -106,7 +106,7 @@ button{
 }
 
 /* New Task */
-.new-task-label {
+.new-task-header {
   display: block;
   margin: 0 0 20px;
 }
